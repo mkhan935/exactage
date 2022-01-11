@@ -6,3 +6,6 @@ Time To continue learning :)
 I hosted it on firebase, the demo site is https://exactage.firebaseapp.com/
 it should work, looked at like 10 times already.
 Let me know if there is anything i can do to make the code and fuctionality better
+
+Checking git on Mac
+
